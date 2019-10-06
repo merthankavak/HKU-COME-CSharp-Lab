@@ -1,0 +1,9 @@
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CalculatorApp.exe.config
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CalculatorApp.exe
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CalculatorApp.pdb
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CalculatorApp.exe
+C:\Users\Merthan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CalculatorApp.pdb

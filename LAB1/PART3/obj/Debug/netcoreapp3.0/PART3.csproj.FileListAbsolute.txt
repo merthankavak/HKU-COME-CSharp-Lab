@@ -1,0 +1,11 @@
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.exe
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.deps.json
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.runtimeconfig.json
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.runtimeconfig.dev.json
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.dll
+C:\Users\Merthan\source\repos\PART3\bin\Debug\netcoreapp3.0\PART3.pdb
+C:\Users\Merthan\source\repos\PART3\obj\Debug\netcoreapp3.0\PART3.csprojAssemblyReference.cache
+C:\Users\Merthan\source\repos\PART3\obj\Debug\netcoreapp3.0\PART3.AssemblyInfoInputs.cache
+C:\Users\Merthan\source\repos\PART3\obj\Debug\netcoreapp3.0\PART3.AssemblyInfo.cs
+C:\Users\Merthan\source\repos\PART3\obj\Debug\netcoreapp3.0\PART3.dll
+C:\Users\Merthan\source\repos\PART3\obj\Debug\netcoreapp3.0\PART3.pdb
