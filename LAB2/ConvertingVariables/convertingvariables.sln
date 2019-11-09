@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertingvariables", "convertingvariables.csproj", "{9BAFF1DB-2BBD-4CAA-9650-7459CBC6DE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAFF1DB-2BBD-4CAA-9650-7459CBC6DE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAFF1DB-2BBD-4CAA-9650-7459CBC6DE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAFF1DB-2BBD-4CAA-9650-7459CBC6DE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAFF1DB-2BBD-4CAA-9650-7459CBC6DE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7218CD-2988-4BC1-AB09-DDD8907314C0}
+	EndGlobalSection
+EndGlobal
