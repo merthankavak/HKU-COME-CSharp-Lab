@@ -1,0 +1,9 @@
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.csprojAssemblyReference.cache
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.Form1.resources
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.Properties.Resources.resources
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.csproj.GenerateResource.cache
+C:\Users\Merthan\source\repos\CoffeApp\bin\Debug\CoffeApp.exe.config
+C:\Users\Merthan\source\repos\CoffeApp\bin\Debug\CoffeApp.exe
+C:\Users\Merthan\source\repos\CoffeApp\bin\Debug\CoffeApp.pdb
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.exe
+C:\Users\Merthan\source\repos\CoffeApp\obj\Debug\CoffeApp.pdb
