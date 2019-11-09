@@ -1,0 +1,9 @@
+C:\Users\Merthan\source\repos\hkucinema\bin\Debug\hkucinema.exe.config
+C:\Users\Merthan\source\repos\hkucinema\bin\Debug\hkucinema.exe
+C:\Users\Merthan\source\repos\hkucinema\bin\Debug\hkucinema.pdb
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.csprojAssemblyReference.cache
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.Form1.resources
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.Properties.Resources.resources
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.csproj.GenerateResource.cache
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.exe
+C:\Users\Merthan\source\repos\hkucinema\obj\Debug\hkucinema.pdb
