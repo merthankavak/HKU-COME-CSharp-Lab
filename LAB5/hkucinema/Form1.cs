@@ -55,10 +55,10 @@ namespace hkucinema
                         DialogResult result = MessageBox.Show(str, "Do you confirm", MessageBoxButtons.YesNo);
                         if (result == DialogResult.Yes)
                         {
-                            MessageBox.Show("Congratulations");
+                            MessageBox.Show("Have a good time...");
                         }
                         else
-                        //{
+                        {
                             MessageBox.Show("See you..");
                         }
                     }
@@ -67,7 +67,7 @@ namespace hkucinema
             }
             else
             {
-                MessageBox.Show("Please Enter Something");
+                MessageBox.Show("Please Enter !");
             }
         }
     }
