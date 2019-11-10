@@ -27,8 +27,6 @@ namespace Trigonometry
         {
             Random random = new Random();
             return random.Next(1, max);
-
-
         }
     }
 }
